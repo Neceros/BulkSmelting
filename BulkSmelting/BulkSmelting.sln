@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSmelting", "BulkSmelting.csproj", "{11A2F03E-5528-4A19-8907-6E2361EB5653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A2F03E-5528-4A19-8907-6E2361EB5653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A2F03E-5528-4A19-8907-6E2361EB5653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A2F03E-5528-4A19-8907-6E2361EB5653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A2F03E-5528-4A19-8907-6E2361EB5653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7266FE0F-A6FF-4CCF-BD26-AAC938ADE7B1}
+	EndGlobalSection
+EndGlobal
